@@ -1,4 +1,4 @@
-baseURL = "http://internettradie.com.au"
+baseURL = "http://internettradie.netlify.app"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
