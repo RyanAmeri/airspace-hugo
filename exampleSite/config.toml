@@ -7,9 +7,9 @@ theme = "airspace-hugo"
 title = "Powering Australian Businesses Online"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2019 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 [Internet Tradie](https://internettradie.com.au) All Rights Reserved"
 home = "Home"
-languageCode = "en-us"
+languageCode = "en-AU"
 languageName = "En"
 weight = 1
 [Languages.fr]
