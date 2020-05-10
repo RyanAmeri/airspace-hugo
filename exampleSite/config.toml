@@ -52,14 +52,14 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [params]
-author = "Themefisher"
+author = "Internet Tradie"
 contact_form_action = "#"
 description = "This is meta description"
-email = "demo@email.com"
+email = "ryan@internettradie.com.au"
 google_analitycs_id = ""
-location = "North Main Street,Brooklyn Australia"
+location = ""
 logo = "images/logo.png"
-mobile = "0124857985320"
+mobile = "+61 483 304 753"
 multi_author = false
 [params.gmap]
 enable = true
