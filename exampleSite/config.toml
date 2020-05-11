@@ -58,7 +58,7 @@ description = "This is meta description"
 email = "ryan@internettradie.com.au"
 google_analitycs_id = ""
 location = ""
-logo = "images/logo.png"
+logo = "images/it-logo-small.jpg"
 mobile = "+61 483 304 753"
 multi_author = false
 [params.gmap]

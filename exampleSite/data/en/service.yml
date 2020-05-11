@@ -34,39 +34,32 @@ featured_service:
 service:
   enable: true
   title: Services
-  description: We provide a wide range of services
+  description:
   service_item:
-  - icon: ion-coffee
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-image
-    name: App Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-leaf
+  - icon: ion-ribbon-a
+    name: Design
+    content: Our in-house designers will create a stunning user-friendly website that brings your business to life and makes your brand stand out from your competitors. 
+  - icon: ion-code-working
     name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: We will ensure your website is optimised and designed to deliver results. Utilising robust, crash-proof architectures, we ensure your website is built to generate leads, convert to sales.
+  - icon: ion-speakerphone
+    name: Marketing
+    content: We don’t just design your website and call it a day. We have a track record of building robust online marketing to drive sales & inquiries. After all, sales data is what defines a successful business.
+  - icon: ion-compose
+    name: Copy Writing
+    content: Good content is just as important as good design. We work with excellent content writers that can write a story about any given topic. Whether you need to grow your blog or your website requires content — we are here to help.
+  - icon: ion-android-cart
+    name: Ecommerce
+    content: Sell. You want your ecommerce website to sell. And we are here to make it happen. We know the stakes are high. Judging from our  years of track record on ecommerce website design in Australia, you can tell that we know a thing or two about creating delightful shopping experiences and conversions. 
+  - icon: ion-help-buoy
+    name: Help & Support
+    content: We understand the challenges small businesses face. We will look after the technical and marketing side of things so that you can focus on what you do best, running your business! We closely monitor and optimise your website to run smoothly without issues and protect your website from potential risks of hacking and going down.
+  - icon: ion-ipad
+    name: App Development
+    content: Something about turning your websites into apps. 
+  - icon: ion-social-instagram
+    name: Digital Strategy
+    content: We exist to solve problems and deliver solutions that will provide a real return on investment. Research and iterative cycles of testing and studies allow us to create informed and calculated solutions. 
+
 cta:
   enable: true

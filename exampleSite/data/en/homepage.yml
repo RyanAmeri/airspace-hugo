@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/great-ideas-2.jpg
   title: A Digital Marketing & Ecommerce Agency
   content: We build websites & ecommerce to help achieve your potential. We love the
     Web and the work we do.We work closely with our clients to deliver the best possible
@@ -45,21 +45,17 @@ service:
   description: This is the description of services
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  bg_image: images/call-to-action.jpg
+  title: This is a call to action!
+  content: This paragraphs should say something about how you really should contact us and tell us your story
   button:
     enable: true
     label: Tell Us Your Story
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: 
+  description: Here should be a sentence about the fun facts we'll be presenting here. 
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
@@ -74,21 +70,15 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
-  - name: Raymond Roy
+  - name: Raff
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Randi Renin
+    designation: Alfresco Italian
+    content: This is the first testimonial
+  - name: Wayne
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Rose Rio
+    designation: 3020
+    content: This is the second testimonial 
+  - name: Bridey
     image: images/clients/avater-3.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: Albion & Friends Toy Library
+    content: This is the third testimonial
