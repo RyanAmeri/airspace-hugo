@@ -11,11 +11,12 @@ banner:
     link: project
 about:
   enable: true
-  title: About Us
-  description: Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics
-  content: This is hero content that should go on the front page
+  title: ''
+  description: We are an award-winning Melbourne-based website design and digital
+    marketing agency
+  content: |2-
+
+    Pragraph describing how we help bring Australian SMEs online enable them to achieve their potential.
   image: images/wrapper-img.png
 portfolio:
   enable: true
