@@ -37,7 +37,10 @@ portfolio:
     link: project
 service:
   enable: true
-  service_item: []
+  service_item:
+  - name: Design
+    content: Handcrafted design
+    icon: logo-designernews
   title: This is the title of services
   description: This is the description of services
 cta:
