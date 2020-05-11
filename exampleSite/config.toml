@@ -2,7 +2,7 @@ baseURL = "https://internettradie.com.au"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
-summaryLength = "35"
+summaryLength = "30"
 theme = "airspace-hugo"
 title = "Powering Australian Businesses Online"
 [Languages.en]
