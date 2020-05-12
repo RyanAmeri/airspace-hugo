@@ -2,7 +2,7 @@
 title: Alfresco Italian Ordering Website
 description: Ecommerce platform
 image: images/portfolio/work6.jpg
-bg_image: "/images/alfrescogc_screenshot_order.png"
+bg_image: "/images/portfolio/work3.jpg"
 category: Video
 information:
 - label: Client
