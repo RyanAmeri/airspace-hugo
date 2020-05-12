@@ -38,11 +38,20 @@ featured_service:
       * Expert advice
       * Marketing strategy
       * In-house local team
-  - name: Game Development
-    icon: ion-lightbulb
+  - name: Ecommerce
+    icon: ion-android-cart
     color: primary-darker
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: "Sell. You want your ecommerce website to sell. And we are here to make
+      it happen. We know the stakes are high. Judging from our  years of track record
+      on ecommerce website design in Australia, you can tell that we know a thing
+      or two about creating delightful shopping experiences and conversions. \n\nWe
+      develop remarkable online stores and outside-the-box strategies to help you
+      create a wonderful shopping experience for your customers. We are highly regarded
+      and trusted by leading online stores in Melbourne to provide complete e-commerce
+      solutions. Our Strong and multi layer payment solution ensure that your interests
+      and your customer’s details are always protected.\n\n* Integrate with your business
+      tools: Xero, Square, Salesforce\n* Safe and efficient payment solution\n* Easy
+      to use with 1-click buying option"
 service:
   enable: true
   title: Services
