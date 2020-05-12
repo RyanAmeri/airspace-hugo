@@ -1,6 +1,6 @@
 ---
-title: "Our Project"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Projects
+description: This page shows our projects
+bg_image: "/images/roozbeh-eslami-YlVjrBkfXt8-unsplash.jpg"
+
 ---
