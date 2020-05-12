@@ -73,9 +73,6 @@ funfacts:
   - icon: ion-social-html5
     name: 'Lines of HTML5 '
     count: "125000"
-  - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: "200"
   testimonial_slider:
   - name: Raff
     image: images/clients/avater-1.jpg
