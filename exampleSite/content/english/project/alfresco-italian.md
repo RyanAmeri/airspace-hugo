@@ -1,11 +1,11 @@
 +++
 bg_image = "/images/kids-playing-toys.jpg"
-category = "Ecommerce"
+category = "UX Design"
 description = "Community Toy Library"
 image = "/images/albiontoylibrary_screenshot_homepage-1.png"
 title = "Albion & Friends Toy Library"
 [[information]]
-info = "Raffaele Velardo "
+info = "Bridey Lokhorst-Blight "
 label = "Client"
 [[information]]
 info = "Development"
