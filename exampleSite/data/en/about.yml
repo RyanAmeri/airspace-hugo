@@ -22,10 +22,9 @@ features:
   - icon: ion-happy-outline
     name: Satisfaction
     content: Satisfaction Guaranteed
-  - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-laptop
+    name: Responsive
+    content: Adapt to all devices
   - icon: ion-ios-mic-outline
     name: Animation and Editing
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
