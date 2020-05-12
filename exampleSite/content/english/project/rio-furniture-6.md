@@ -9,8 +9,8 @@ information:
   info: 'Raffaele Velardo '
 - label: What We Did
   info: Ecommerce Development
-- label: Tools Used
-  info: "* WordPress <br> * WooCommerce <br> * PHP <br> * HTML"
+- label: Main Technology Used
+  info: WooCommerce
 - label: Completed on
   info: 11 May 2020
 
