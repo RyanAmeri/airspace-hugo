@@ -2,7 +2,6 @@
 bg_image = "/images/restaurant-stock-photo.jpg"
 category = "Ecommerce"
 description = "Restaurant Ordering & Delivery"
-draft = true
 image = "/images/alfrescogc_screenshot_order-1.png"
 title = "Alfresco Italian"
 [[information]]
