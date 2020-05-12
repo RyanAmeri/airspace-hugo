@@ -8,7 +8,7 @@ information:
 - label: Client
   info: 'Raffaele Velardo '
 - label: What We Did
-  info: Platform Development
+  info: Ecommerce Development
 - label: Tools Used
   info: "* WordPress <br> * WooCommerce <br> * PHP <br> * HTML"
 - label: Completed on
