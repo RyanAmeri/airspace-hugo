@@ -1,7 +1,7 @@
 +++
-bg_image = "/images/portfolio/work3.jpg"
+bg_image = "/images/kids-playing-toys.jpg"
 category = "Video"
-description = "Restaurant Ordering & Delivery"
+description = "Community Toy Library"
 draft = true
 image = "images/portfolio/work6.jpg"
 title = "Alfresco Italian"
