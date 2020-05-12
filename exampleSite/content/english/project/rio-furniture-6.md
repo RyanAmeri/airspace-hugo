@@ -1,6 +1,6 @@
 ---
-title: Albion & Friends Toy Library
-description: website development
+title: Alfresco Italian Ordering Website
+description: Ecommerce platform
 image: images/portfolio/work6.jpg
 bg_image: "/images/alfrescogc_screenshot_order.png"
 category: Video
@@ -19,10 +19,16 @@ information:
   info: Jannie Kelonsky
 
 ---
-## Alfresco Italian Ordering Webstie
+## Alfresco Italian Ordering System
 
 Describe the client needs
 
+* Complex menu
+
 Technology used
+
+* Ecommerce
+* Payment processing
+* Mobile apps
 
 Outcomes achieved
