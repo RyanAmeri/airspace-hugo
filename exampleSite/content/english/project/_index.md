@@ -5,6 +5,8 @@ bg_image: "/images/kids-playing-toys.jpg"
 image: "/images/albiontoylibrary_screenshot_homepage.png"
 category: UX Design
 information:
+- label: 'Completed on:'
+  info: 28 January 2020
 - label: 'Maint Technology Used:'
   info: WordPress
 - label: Client
