@@ -1,17 +1,21 @@
 ---
 title: Alfresco Italian
 description: Restaurant Ordering & Delivery
-image: "/images/alfrescogc_screenshot_order-1.png"
-bg_image: images/featue-bg.jpg
-category: Ecommerce
+image: images/portfolio/work6.jpg
+bg_image: "/images/portfolio/work3.jpg"
+category: Video
 information:
 - label: Client
-  info: 'Raffaele Velardo '
+  info: Jannie Kelonsky
 - label: What We Did
-  info: Platform Development
+  info: Website Redesign
 - label: Tools Used
-  info: "* WordPress <br> * WooCommerce <br> * PHP <br> * HTML"
+  info: Photoshop,Illustrator
 - label: Completed on
-  info: 11 May 2020
+  info: 17th March 2014
+- label: Skills
+  info: HTML5 / PHP / CSS3
+- label: Client
+  info: Jannie Kelonsky
 
 ---
