@@ -16,6 +16,17 @@ about:
 featured_service:
   enable: true
   service_item:
+  - name: Design
+    icon: ion-ribbon-a
+    color: white
+    content: |-
+      Our in-house designers will create a stunning user-friendly website that brings your business to life and makes your brand stand out from your competitors. Your designer will make sure they understand your vision and develop something that is unique to your business.
+
+      We go beyond just great designs & mobile responsive websites, we take the time to understand your business, learn about your competitors and meet your objectives.
+
+      * Easy to use
+      * Adaptive on phones, tablets and computers
+      * Image sourcing available
   - name: Interface Design
     icon: ion-erlenmeyer-flask
     color: primary
@@ -34,32 +45,47 @@ featured_service:
 service:
   enable: true
   title: Services
-  description:
+  description: 
   service_item:
   - icon: ion-ribbon-a
     name: Design
-    content: Our in-house designers will create a stunning user-friendly website that brings your business to life and makes your brand stand out from your competitors. 
+    content: Our in-house designers will create a stunning user-friendly website that
+      brings your business to life and makes your brand stand out from your competitors.
   - icon: ion-code-working
     name: Development
-    content: We will ensure your website is optimised and designed to deliver results. Utilising robust, crash-proof architectures, we ensure your website is built to generate leads, convert to sales.
+    content: We will ensure your website is optimised and designed to deliver results.
+      Utilising robust, crash-proof architectures, we ensure your website is built
+      to generate leads, convert to sales.
   - icon: ion-speakerphone
     name: Marketing
-    content: We don’t just design your website and call it a day. We have a track record of building robust online marketing to drive sales & inquiries. After all, sales data is what defines a successful business.
+    content: We don’t just design your website and call it a day. We have a track
+      record of building robust online marketing to drive sales & inquiries. After
+      all, sales data is what defines a successful business.
   - icon: ion-compose
     name: Copy Writing
-    content: Good content is just as important as good design. We work with excellent content writers that can write a story about any given topic. Whether you need to grow your blog or your website requires content — we are here to help.
+    content: Good content is just as important as good design. We work with excellent
+      content writers that can write a story about any given topic. Whether you need
+      to grow your blog or your website requires content — we are here to help.
   - icon: ion-android-cart
     name: Ecommerce
-    content: Sell. You want your ecommerce website to sell. And we are here to make it happen. We know the stakes are high. Judging from our  years of track record on ecommerce website design in Australia, you can tell that we know a thing or two about creating delightful shopping experiences and conversions. 
+    content: Sell. You want your ecommerce website to sell. And we are here to make
+      it happen. We know the stakes are high. Judging from our  years of track record
+      on ecommerce website design in Australia, you can tell that we know a thing
+      or two about creating delightful shopping experiences and conversions.
   - icon: ion-help-buoy
     name: Help & Support
-    content: We understand the challenges small businesses face. We will look after the technical and marketing side of things so that you can focus on what you do best, running your business! We closely monitor and optimise your website to run smoothly without issues and protect your website from potential risks of hacking and going down.
+    content: We understand the challenges small businesses face. We will look after
+      the technical and marketing side of things so that you can focus on what you
+      do best, running your business! We closely monitor and optimise your website
+      to run smoothly without issues and protect your website from potential risks
+      of hacking and going down.
   - icon: ion-ipad
     name: App Development
-    content: Something about turning your websites into apps. 
+    content: Something about turning your websites into apps.
   - icon: ion-social-instagram
     name: Digital Strategy
-    content: We exist to solve problems and deliver solutions that will provide a real return on investment. Research and iterative cycles of testing and studies allow us to create informed and calculated solutions. 
-
+    content: We exist to solve problems and deliver solutions that will provide a
+      real return on investment. Research and iterative cycles of testing and studies
+      allow us to create informed and calculated solutions.
 cta:
   enable: true
