@@ -68,8 +68,8 @@ funfacts:
     name: WordPress Projects
     count: "3"
   - icon: ion-social-javascript
-    name: JavaScript
-    count: ''
+    name: JavaScript Frameworks
+    count: "5"
   - icon: ion-social-html5
     name: HTML5
     count: ''
