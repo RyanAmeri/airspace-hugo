@@ -112,3 +112,7 @@ link = "#"
 [[params.social]]
 icon = "ion-social-facebook-outline"
 link = "#"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+        unsafe = true
