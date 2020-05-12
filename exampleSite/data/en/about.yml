@@ -40,7 +40,7 @@ mission_vision:
   enable: true
   tabs:
   - name: Vision
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
+    content: Lorem ipsum dolor sit amet <br> , consectetur adipisicing elit. Inventore nobis
       ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
       ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
       Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
