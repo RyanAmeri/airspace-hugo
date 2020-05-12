@@ -58,6 +58,9 @@ funfacts:
   title: 
   description: Our flexible and versatile technology stack
   funfact_item:
+  - icon: ion-iphone
+    name: iOS
+    count: ''
   - icon: ion-social-wordpress
     name: WordPress
     count: ''
