@@ -10,7 +10,7 @@ information:
 - label: What We Did
   info: Developed Ordering Platform
 - label: Tools Used
-  info: Photoshop,Illustrator
+  info: WordPress, WooCommerce, PHP, HTML, CSS
 - label: Completed on
   info: 17th March 2014
 - label: Skills
