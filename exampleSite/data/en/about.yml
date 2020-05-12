@@ -31,10 +31,9 @@ features:
   - icon: ion-ios-lightbulb-outline
     name: Simplicity
     content: 'Simplicity in UX Design '
-  - icon: ion-ios-star-outline
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-social-usd-outline
+    name: Affordable
+    content: We believe everyone deserves to enjoy a successful online presence
 testimonial:
   enable: true
 mission_vision:
