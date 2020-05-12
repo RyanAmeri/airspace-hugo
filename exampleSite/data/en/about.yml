@@ -29,9 +29,8 @@ features:
     name: Scalable
     content: Meeting your growing needs on demand
   - icon: ion-ios-lightbulb-outline
-    name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Simplicity
+    content: 'Simplicity in UX Design '
   - icon: ion-ios-star-outline
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
