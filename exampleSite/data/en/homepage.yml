@@ -64,9 +64,9 @@ funfacts:
   - icon: ion-social-javascript
     name: JavaScript
     count: ''
-  - icon: ion-ios-compose-outline
-    name: Projects Completed
-    count: "125"
+  - icon: ion-social-html5
+    name: HTML5
+    count: ''
   - icon: ion-ios-timer-outline
     name: Combined Projects
     count: "200"
