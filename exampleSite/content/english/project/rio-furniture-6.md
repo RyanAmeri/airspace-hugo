@@ -10,7 +10,7 @@ information:
 - label: What We Did
   info: Developed Ordering Platform
 - label: Tools Used
-  info: WordPress, WooCommerce, PHP, HTML, CSS
+  info: "* WordPress * WooCommerce * PHP * HTML"
 - label: Completed on
   info: 11 May 2020
 
