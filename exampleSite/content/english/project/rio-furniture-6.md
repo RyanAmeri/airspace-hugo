@@ -8,7 +8,7 @@ information:
 - label: Client
   info: 'Raffaele Velardo '
 - label: What We Did
-  info: Ecommerce Development
+  info: Development
 - label: Main Technology Used
   info: WooCommerce
 - label: Completed on
