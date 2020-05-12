@@ -1,5 +1,5 @@
 ---
-title: Alfresco Italian Ordering Website
+title: Alfresco Italian
 description: Restaurant Ordering & Delivery
 image: images/portfolio/work6.jpg
 bg_image: "/images/portfolio/work3.jpg"
