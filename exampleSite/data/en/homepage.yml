@@ -71,8 +71,8 @@ funfacts:
     name: JavaScript Frameworks
     count: "5"
   - icon: ion-social-html5
-    name: HTML5
-    count: ''
+    name: 'Lines of HTML5 '
+    count: "125000"
   - icon: ion-ios-timer-outline
     name: Combined Projects
     count: "200"
