@@ -2,7 +2,7 @@
 title: Alfresco Italian
 description: Restaurant Ordering & Delivery
 image: "/images/alfrescogc_screenshot_order-1.png"
-bg_image: images/featue-bg.jpg
+bg_image: "/images/restaurant-stock-photo.jpg"
 category: Ecommerce
 information:
 - label: Client
