@@ -62,8 +62,8 @@ funfacts:
     name: Android Apps
     count: "2"
   - icon: ion-iphone
-    name: iOS
-    count: ''
+    name: iOS Apps
+    count: "2"
   - icon: ion-social-wordpress
     name: WordPress Projects
     count: "3"
