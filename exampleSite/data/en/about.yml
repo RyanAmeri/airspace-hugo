@@ -14,12 +14,11 @@ about:
   funfacts: []
 features:
   enable: true
-  title: We are indepented Design & Development Agency
+  title: Development Principles
   feature_item:
-  - icon: ion-ios-color-filter-outline
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+  - icon: ion-ios-locked-outline
+    name: Secure
+    content: Something about how secure we are
   - icon: ion-ios-unlocked-outline
     name: App Secutity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
