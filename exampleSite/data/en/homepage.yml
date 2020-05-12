@@ -47,7 +47,8 @@ cta:
   enable: true
   bg_image: images/call-to-action.jpg
   title: This is a call to action!
-  content: This paragraphs should say something about how you really should contact us and tell us your story
+  content: This paragraphs should say something about how you really should contact
+    us and tell us your story
   button:
     enable: true
     label: Tell Us Your Story
@@ -55,11 +56,11 @@ cta:
 funfacts:
   enable: true
   title: 
-  description: Here should be a sentence about the fun facts we'll be presenting here. 
+  description: Our flexible and versatile technology stack
   funfact_item:
-  - icon: ion-ios-chatboxes-outline
-    name: Cups Of Coffee
-    count: "99"
+  - icon: ion-social-wordpress
+    name: WordPress
+    count: "5"
   - icon: ion-ios-glasses-outline
     name: Article Written
     count: "45"
@@ -76,8 +77,8 @@ funfacts:
     content: This is the first testimonial
   - name: Wayne
     image: images/clients/avater-1.jpg
-    designation: 3020
-    content: This is the second testimonial 
+    designation: "3020"
+    content: This is the second testimonial
   - name: Bridey
     image: images/clients/avater-3.jpg
     designation: Albion & Friends Toy Library
