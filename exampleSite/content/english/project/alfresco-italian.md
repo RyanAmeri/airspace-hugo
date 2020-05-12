@@ -11,8 +11,8 @@ label = "Client"
 info = "Design & Development"
 label = "What We Did"
 [[information]]
-info = "WordPress"
-label = "Main Technology Used"
+info = "WordPress HTML5 CSS"
+label = "Technology Used"
 [[information]]
 info = "28 January 2020"
 label = "Completed on"

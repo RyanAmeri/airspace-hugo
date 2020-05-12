@@ -11,8 +11,8 @@ label = "Client"
 info = "Development"
 label = "What We Did"
 [[information]]
-info = "WooCommerce"
-label = "Main Technology Used"
+info = "WooCommerce PHP JavaScript"
+label = "Technology Used"
 [[information]]
 info = "11 May 2020"
 label = "Completed on"
@@ -29,5 +29,6 @@ Technology used
 * Ecommerce
 * Payment processing
 * Mobile apps
+* Caching and CDN
 
 Outcomes achieved
