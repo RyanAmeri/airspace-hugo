@@ -18,7 +18,7 @@ featured_service:
   service_item:
   - name: Design
     icon: ion-ribbon-a
-    color: white
+    color: primary
     content: |-
       Our in-house designers will create a stunning user-friendly website that brings your business to life and makes your brand stand out from your competitors. Your designer will make sure they understand your vision and develop something that is unique to your business.
 
