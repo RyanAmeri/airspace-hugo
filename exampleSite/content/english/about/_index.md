@@ -1,6 +1,6 @@
 ---
-title: "About Our Company"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: About Internet Tradie
+description: Powering Australian Businesses Online
+bg_image: images/featue-bg.jpg
+
 ---
