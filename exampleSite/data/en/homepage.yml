@@ -60,7 +60,7 @@ funfacts:
   funfact_item:
   - icon: ion-social-wordpress
     name: WordPress
-    count: "5"
+    count: ''
   - icon: ion-social-javascript
     name: JavaScript Frameworks
     count: "3"
