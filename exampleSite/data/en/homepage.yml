@@ -62,8 +62,8 @@ funfacts:
     name: WordPress
     count: ''
   - icon: ion-social-javascript
-    name: JavaScript Frameworks
-    count: "3"
+    name: JavaScript
+    count: ''
   - icon: ion-ios-compose-outline
     name: Projects Completed
     count: "125"
