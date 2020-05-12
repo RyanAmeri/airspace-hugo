@@ -11,7 +11,7 @@ label = "Client"
 info = "Design & Development"
 label = "What We Did"
 [[information]]
-info = "WooCommerce"
+info = "WordPress"
 label = "Main Technology Used"
 [[information]]
 info = "11 May 2020"
