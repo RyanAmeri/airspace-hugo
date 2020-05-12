@@ -1,6 +1,6 @@
 ---
 title: Alfresco Italian Ordering Website
-description: Ecommerce platform
+description: Restaurant Ordering & Delivery
 image: images/portfolio/work6.jpg
 bg_image: "/images/portfolio/work3.jpg"
 category: Video
