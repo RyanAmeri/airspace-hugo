@@ -12,7 +12,7 @@ information:
 - label: Tools Used
   info: WordPress, WooCommerce, PHP, HTML, CSS
 - label: Completed on
-  info: 17th March 2014
+  info: 11 May 2020
 - label: Skills
   info: HTML5 / PHP / CSS3
 - label: Client
