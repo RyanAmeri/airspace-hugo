@@ -14,7 +14,7 @@ label = "What We Did"
 info = "WordPress"
 label = "Main Technology Used"
 [[information]]
-info = "11 May 2020"
+info = "28 January 2020"
 label = "Completed on"
 
 +++
