@@ -8,7 +8,7 @@ title = "Albion & Friends Toy Library"
 info = "Bridey Lokhorst-Blight "
 label = "Client"
 [[information]]
-info = "Development"
+info = "Design & Development"
 label = "What We Did"
 [[information]]
 info = "WooCommerce"
