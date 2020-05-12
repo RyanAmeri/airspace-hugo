@@ -1,10 +1,10 @@
 +++
-bg_image = "/images/restaurant-stock-photo.jpg"
+bg_image = "/images/kids-playing-toys.jpg"
 category = "Ecommerce"
-description = "Restaurant Ordering & Delivery"
+description = "Community Toy Library"
 draft = true
-image = "/images/alfrescogc_screenshot_order-1.png"
-title = "Alfresco Italian"
+image = "/images/albiontoylibrary_screenshot_homepage-1.png"
+title = "Albion & Friends Toy Library"
 [[information]]
 info = "Raffaele Velardo "
 label = "Client"
@@ -19,16 +19,18 @@ info = "11 May 2020"
 label = "Completed on"
 
 +++
-## Alfresco Italian Ordering System
+## Albion & Friends Community Toy Library
 
 Describe the client needs
 
-* Complex menu
+* Quick turn around
+* Responsive to adaptive program change
 
 Technology used
 
-* Ecommerce
-* Payment processing
-* Mobile apps
+* Google Maps 
+* SEO
+* Fast image compression
 
-Outcomes achieved
+  Outcomes achieved
+* Program success?
