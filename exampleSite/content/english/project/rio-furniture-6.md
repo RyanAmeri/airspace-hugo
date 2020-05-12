@@ -8,7 +8,7 @@ information:
 - label: Client
   info: 'Raffaele Velardo '
 - label: What We Did
-  info: Website Redesign
+  info: Developed Ordering Platform
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
