@@ -81,8 +81,8 @@ input[type="tel"] {
   }
 
   &:hover {
-    background: darken($primary-color, 20%);
-    color: $light;
+    background: $secondary-color;
+    color: $black;
   }
 }
 
@@ -95,6 +95,7 @@ input[type="tel"] {
   &:hover {
     border: 1px solid $primary-color;
     background: $primary-color;
+    color: $light;
   }
 }
 

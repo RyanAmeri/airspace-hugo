@@ -19,8 +19,12 @@
 	}
 
 	.btn-view-works {
-		background: #007EBE;
-		color: #fff;
+		background: $primary-color;
+		color: $light;
 		padding: 10px 20px;
+		&:hover {
+			background: $secondary-color;
+			color: $black;
+		  }
 	}
 }
