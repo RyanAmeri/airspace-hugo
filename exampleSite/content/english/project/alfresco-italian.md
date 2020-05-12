@@ -2,6 +2,7 @@
 bg_image = "/images/kids-playing-toys.jpg"
 category = "Video"
 description = "Community Toy Library"
+draft = true
 image = "images/portfolio/work6.jpg"
 title = "Alfresco Italian"
 [[information]]
