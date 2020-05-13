@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/cafe-bg.jpg"
-category = "UX Design"
+category = "Web & UX"
 description = "Restaurant Menu & Grocery Ordering"
 image = "/images/threezerotwozero_screenshot_homepage.png"
 title = "Three Zero Two Zero"
