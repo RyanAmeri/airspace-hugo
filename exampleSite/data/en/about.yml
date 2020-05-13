@@ -1,7 +1,7 @@
 ---
 about:
   enable: true
-  image: images/about-us-insert-medium.jpg
+  image: images/about_us_insert_medium.jpg
   title: Here is a title about Internet Tradie's about page
   content: |-
     Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam iure officiis facere vitae itaque.
