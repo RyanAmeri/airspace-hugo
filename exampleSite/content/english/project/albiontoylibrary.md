@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/kids-playing-toys.jpg"
-category = "UX Design"
+category = "Web & UX"
 description = "Community Toy Library"
 image = "/images/albiontoylibrary_screenshot_homepage-1.png"
 title = "Albion & Friends Toy Library"
