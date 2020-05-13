@@ -1,6 +1,11 @@
 ---
-title: "Service"
-description: "this is meta description"
-draft: false
-bg_image: "images/bg3-small.jpg"
+title: Service
+description: this is meta description
+bg_image: images/bg3-small.jpg
+menu:
+  main:
+    URL: service
+    name: Services
+    weight: 2
+
 ---

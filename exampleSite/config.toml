@@ -19,38 +19,24 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
+[markup.goldmark.renderer]
+unsafe = true
 [[menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
+URL = "contact"
+name = "Contact"
+weight = 4
 [[menu.footer]]
 URL = "service"
 name = "Service"
 weight = 3
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
 URL = "project"
 name = "Project"
 weight = 2
-[[menu.main]]
-URL = "service"
-name = "Service"
-weight = 3
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
+[[menu.footer]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 author = "Internet Tradie"
 contact_form_action = "#"
@@ -112,7 +98,3 @@ link = "#"
 [[params.social]]
 icon = "ion-social-facebook-outline"
 link = "#"
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-        unsafe = true
