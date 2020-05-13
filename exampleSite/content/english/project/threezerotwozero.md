@@ -37,5 +37,5 @@ Technology used
 * Google Apps Script
 * Custom Forms
 
-  Outcomes achieved
+Outcomes achieved
 * Sales increase / labour time decrease
