@@ -8,7 +8,7 @@ banner:
     solutions for their needs
   button:
     enable: true
-    label: Discover Our Project
+    label: Discover Our Projects
     link: project
 about:
   enable: true
