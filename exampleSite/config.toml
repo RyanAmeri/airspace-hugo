@@ -41,11 +41,11 @@ weight = 4
 author = "Internet Tradie"
 contact_form_action = "#"
 description = "This is meta description"
-email = "ryan@internettradie.com.au"
+email = "info@internettradie.com.au"
 google_analitycs_id = ""
-location = ""
+location = "Sunshine, Victoria"
 logo = "images/it-logo-small.jpg"
-mobile = "+61 483 304 753"
+mobile = "1300 954 961"
 multi_author = false
 [params.gmap]
 enable = true
