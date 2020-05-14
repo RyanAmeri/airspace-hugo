@@ -42,7 +42,7 @@ multi_author = false
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCSvQ4m9kIruL1WbKwI1NyV3780Tn6JLic&libraries=places"
-map_latitude = "-37.788539"
+map_latitude = "-37.789361"
 map_longitude = "144.832216"
 map_marker = "images/marker.png"
 [params.nav_button]
