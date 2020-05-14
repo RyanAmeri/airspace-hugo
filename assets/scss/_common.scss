@@ -260,7 +260,7 @@ input[type="tel"] {
 
   p {
     font-style: italic;
-    color: #666;
+    color:$black;
     font-family: $secondary-font;
   }
 }
@@ -459,9 +459,9 @@ input[type="tel"] {
     }
 
     li.active a {
-      background-color: $primary-color;
-      border: 1px solid $primary-color;
-      color: #ffffff;
+      background-color: $secondary-color;
+      border: 1px solid $secondary-color;
+      color: $black;
     }
 
     a {
@@ -470,8 +470,8 @@ input[type="tel"] {
 
       &:hover {
         border: 1px solid transparent;
-        background: $primary-color;
-        color: $light;
+        background: $secondary-color;
+        color: $black;
       }
     }
   }
@@ -479,6 +479,7 @@ input[type="tel"] {
   .tab-content {
     padding: 20px;
     border: 1px solid $border-color;
+    background-color: $secondary-color;
   }
 }
 
