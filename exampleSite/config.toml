@@ -27,7 +27,7 @@ name = "Projects"
 weight = 2
 [[menu.footer]]
 URL = "service"
-name = "Service"
+name = "Services"
 weight = 3
 [[menu.footer]]
 URL = "about"
