@@ -45,7 +45,7 @@ email = "info@internettradie.com.au"
 google_analitycs_id = ""
 location = "Sunshine, Victoria"
 logo = "images/it-logo-small.jpg"
-mobile = "1300 954 961"
+mobile = "1300954961"
 multi_author = false
 [params.gmap]
 enable = true
