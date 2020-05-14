@@ -22,21 +22,13 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-URL = "project"
-name = "Projects"
-weight = 2
-[[menu.footer]]
-URL = "service"
-name = "Services"
-weight = 3
-[[menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.footer]]
 URL = "contact"
 name = "Contact"
 weight = 4
+[[menu.footer]]
+URL = "about"
+name = "About"
+weight = 3
 [params]
 author = "Internet Tradie"
 contact_form_action = "#"

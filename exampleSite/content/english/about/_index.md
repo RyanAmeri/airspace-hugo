@@ -4,8 +4,8 @@ description: Powering Australian Businesses Online
 bg_image: images/bg1-small.jpg
 menu:
   main:
-    URL: about
     name: About
+    URL: about
     weight: 3
 
 ---

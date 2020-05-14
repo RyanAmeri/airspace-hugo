@@ -4,8 +4,8 @@ description: this is meta description
 bg_image: images/bg4-small.jpg
 menu:
   main:
-    URL: contact
     name: Contact
+    URL: contact
     weight: 4
 
 ---
