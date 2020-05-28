@@ -4,7 +4,8 @@
 
   .service-item {
     padding-bottom: 30px;
-
+    padding-left: 15px;
+    padding-right: 15px;
     i {
       font-size: 60px;
       color: $primary-color;
@@ -20,13 +21,14 @@
     p {
       padding-top: 10px;
       margin: 0;
+      text-align: justify;
     }
   }
 }
 
 .dark-service {
   .title {
-    color: $light;
+    color: $black;
   }
 
   .service-item {
@@ -35,11 +37,11 @@
 
     i {
       font-size: 60px;
-      color: $light;
+      color: $black;
     }
 
     h4 {
-      color: $light;
+      color: $black;
       padding-top: 15px;
       margin: 0;
       font-weight: 500;
@@ -73,6 +75,7 @@
 
     p {
       color: $light;
+      text-align: justify;
     }
   }
 }

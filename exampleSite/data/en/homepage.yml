@@ -8,7 +8,7 @@ banner:
     solutions for their needs
   button:
     enable: true
-    label: Discover Our Project
+    label: Discover Our Projects
     link: project
 about:
   enable: true
@@ -18,7 +18,7 @@ about:
   content: |2-
 
     Pragraph describing how we help bring Australian SMEs online enable them to achieve their potential.
-  image: images/wrapper-img.png
+  image: images/bg5-small.jpg
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg

@@ -14,7 +14,7 @@
           <img class="img-responsive" src="{{ .image | relURL }}">
         </div>
       </div>
-      <div class="col-md-6">
+      <div style=" padding-right: 50px; padding-left: 50px; text-align: justify;" class="col-md-6">
         <h2 class="mt-40">{{ .title | markdownify }}</h2>
         {{ .content | markdownify }}
         {{ if .button.enable }}
@@ -42,7 +42,7 @@
 
 {{ if $data.about.features.enable }}
 {{ with $data.about.features }}
-<section class="about-feature bg-dark section dark-service">
+<section class="about-feature bg-primary section dark-service">
   <div class="container">
     {{ with .title }}
     <div class="row">
